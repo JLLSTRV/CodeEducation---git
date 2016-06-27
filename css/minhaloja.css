@@ -1,0 +1,61 @@
+main {
+	 margin-top: 30px;
+}
+
+.navbar-inverse .navbar-header > button,
+.navbar-inverse .navbar-header > button:focus,
+.navbar-inverse .navbar-header > button:hover {
+	background-color: #9d9d9d;	
+}
+
+.titulo-principal {
+	border-bottom: 1px solid #ccc;
+}
+
+.painel-cliente {
+	margin: 20px 0px 20px;
+	border: 0px;
+}
+
+.panel-group .panel {
+	margin-bottom: 20px;
+}
+
+td {
+	width: 300px;
+}
+
+.panel-body {
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+input[name=campo] {
+	border: 0px;
+	background-color: #337ab7;
+	color: black;
+}
+
+.glyphicon-triangle-bottom, 
+.glyphicon-triangle-top {
+	color: black;
+}
+
+.glyphicon-triangle-bottom {
+	top: 8px;
+}
+
+.corpo-lista {
+	padding: 0px 15px;
+}
+
+footer {
+	background-color: black;
+	color: #9d9d9d;
+	padding: 15px;
+	margin-top: 20px;
+}
+
+footer address:last-child {
+	margin-bottom: 0;
+}
