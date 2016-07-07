@@ -1,6 +1,5 @@
-# Projeto Fase 1 - AulaGit
-### Meu Primeiro Push:
+# Projeto Fase 2 - AulaGit
+### Release 0.1.1:
 
-git commit -m "commitando README.md"  
-git remote add origin git@github.com:JLLSTRV/CodeEducation-git.git  
-git push origin master  
+Esta fase é somente para mostrar a experiência com releases em projetos.  
+A única alteração neste release foi neste arquivo README.md.
